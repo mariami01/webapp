@@ -1,0 +1,21 @@
+.menu{
+    border: solid 2px black;
+    margin: auto;
+    width: 70%;
+    background-color: lightcoral;
+}
+.menu ul li{
+    display: inline-block;
+    margin: 10px;
+    font-size: 1.5em;
+}
+.menu ul{
+    list-style: none;
+}
+.container{
+    border: solid 2px black;
+    margin-top: 50px;
+    width: 70%;
+    min-height: 400px;
+    margin: auto;
+}
